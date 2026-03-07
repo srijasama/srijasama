@@ -1,30 +1,44 @@
-# Hi, I’m Srija 👋
+# Hi, I'm Srija 👋
 
-🎓 MS in Business Analytics  
-📊 Aspiring Product / Data Analyst  
-
----
-
-## 🔎 Skills
-SQL • R • Regression • Clustering • Time Series • Power BI • Data Visualization • KPI Analysis
+🎓 Master's in Business Analytics  
+📊Product Data Analyst | SQL | Python | Tableau  
+📍 United States  
 
 ---
 
-## 📊 Featured Projects
+## About Me
 
-### 🏦 Employee Engagement & Branch Performance (Banking)
-Regression, Clustering, PCA, Shiny Dashboard  
-🔗 kenexa-ncb-employee-engagement-analysis
-
-### 🌡 U.S. Temperature Forecasting
-ARIMA, ETS, Time-Series Modeling  
-🔗 us-temperature-time-series-forecasting
-
-### 🛍 Customer Segmentation Analysis
-Purchase Behavior & Clustering  
-🔗 customer-segmentation-purchase-history-analysis
+I am a Business Analytics graduate passionate about transforming data into insights.  
+Currently looking for Data Analyst / Business Analyst roles where I can apply analytics and machine learning to solve business problems.
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/ssrijareddy/ 
+## Skills
+
+- SQL
+- Python
+- Excel
+- Tableau
+- Power BI
+- Machine Learning
+- Data Visualization
+
+---
+
+## Projects
+
+📊 Customer Churn Prediction  
+Logistic regression model to predict telecom customer churn.
+
+📈 Sales Dashboard  
+Interactive Tableau dashboard analyzing sales performance.
+
+📉 Diabetes Prediction  
+Classification model using machine learning.
+
+---
+
+## Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/ssrijareddy/)  
+Email: samasrija15@gmail.com
