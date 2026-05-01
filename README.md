@@ -38,7 +38,7 @@ Classification model using machine learning.
 
 ---
 
-## Connect With Me
 
-LinkedIn: (https://www.linkedin.com/in/ssrijareddy/)  
-Email: samasrija15@gmail.com
+
+
+
